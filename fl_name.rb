@@ -1,8 +1,9 @@
 
+  first_name = "Raynold"
+  last_name = "Gyasi"
 
-
-"Raynold" + " " +  "Gyasi"       
-     
+ puts first_name + " " +  last_name     
+       
 
        
 
